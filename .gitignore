@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.log
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+ENV/
+
+# Данные пользователя (НЕ пушим в репозиторий!)
+data/recipes/
+data/settings.json
+*.png
+*.jpg
+
+# Сборки
+build/
+dist/
+*.spec
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Лицензии и триалы
+*.key
+license.key
+trial.json
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
