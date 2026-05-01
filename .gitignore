@@ -24,7 +24,7 @@ data/settings.json
 build/
 
 *.spec
-*.exe
+
 
 # IDE
 .idea/
