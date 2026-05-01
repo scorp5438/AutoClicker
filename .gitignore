@@ -22,7 +22,7 @@ data/settings.json
 
 # Сборки
 build/
-dist/
+
 *.spec
 *.exe
 
